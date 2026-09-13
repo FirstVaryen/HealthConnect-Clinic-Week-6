@@ -8,6 +8,9 @@
 
 **Google Drive submission folder:** https://drive.google.com/drive/folders/19puvv7SFTd7HNzNlt-tCQ5VWkr6K-LEM?usp=sharing
 
+**Week 6 published social posts:**
+- X: https://x.com/Varyen01/status/2099189837932703920?s=20
+
 ---
 
 ## What's in this repository
