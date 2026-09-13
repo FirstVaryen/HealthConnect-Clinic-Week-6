@@ -6,7 +6,7 @@
 **Prepared by:** Hillary Emmanuel
 **Week 6 focus:** Advanced Analytics & Decision Support (deepen and validate Week 5 findings, not repeat them)
 
-**Google Drive submission folder:** to be added
+**Google Drive submission folder:** https://drive.google.com/drive/folders/19puvv7SFTd7HNzNlt-tCQ5VWkr6K-LEM?usp=sharing
 
 ---
 
