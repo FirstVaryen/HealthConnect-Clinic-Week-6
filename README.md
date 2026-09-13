@@ -14,11 +14,11 @@
 
 | Path | What it is |
 |---|---|
-| `reports/Part1_Week5_to_Week6_Transition.md` / `.pdf` | Week 5→6 transition and Part 1 Integration Readiness |
-| `reports/Advanced_Analytics_Decision_Support.md` / `.pdf` | Main Week 6 deliverable: deepened findings, refined KPIs, business recommendations, limitations, Week 7 requirements |
-| `reports/KPI_Validation.md` / `.pdf` | Bootstrap confidence-interval validation of all five Week 5 KPIs |
-| `reports/CrossTrack_Collaboration_Week6.md` / `.pdf` | The mandatory Week 6 cross-track integration writeup (Data Analytics ↔ Data Science) |
-| `reports/Week6_Project_Summary.md` / `.pdf` | The Week 6 Project Summary |
+| `reports/Part1_Week5_to_Week6_Transition.pdf` | Week 5→6 transition and Part 1 Integration Readiness |
+| `reports/Advanced_Analytics_Decision_Support.pdf` | Main Week 6 deliverable: deepened findings, refined KPIs, business recommendations, limitations, Week 7 requirements |
+| `reports/KPI_Validation.pdf` | Bootstrap confidence-interval validation of all five Week 5 KPIs |
+| `reports/CrossTrack_Collaboration_Week6.pdf` | The mandatory Week 6 cross-track integration writeup (Data Analytics ↔ Data Science) |
+| `reports/Week6_Project_Summary.pdf` | The Week 6 Project Summary |
 | `reports/cross_track_evidence/` | Copies of the Data Science track's evidence (model report, cross-validation results, permutation importance) referenced in the cross-track writeup |
 | `notebooks/HealthConnect_Week6_KPI_Validation.ipynb` | Executed notebook reproducing the KPI bootstrap validation with real outputs |
 | `outputs/dashboard/HealthConnect_Week6_Dashboard.pbix` | Updated Power BI dashboard: bootstrap confidence-interval error bars on all four rate charts, revised title, distance-finding caption |
