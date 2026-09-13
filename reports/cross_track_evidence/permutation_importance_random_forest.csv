@@ -1,0 +1,32 @@
+,0
+booking_lead_days,0.09686041142974396
+leadtime_x_priornoshow,0.025392163568688432
+double_risk_flag,0.0005939454049031456
+appointment_type_Follow-up,0.00034428313297645843
+appointment_day_Thursday,0.0002596373626999549
+reminder_channel_WhatsApp,0.0002517997913780434
+previous_no_shows,0.0002512297861909818
+appointment_day_Wednesday,0.00020463186214988437
+waiting_time_minutes,8.635578583759406e-05
+previous_appointments,9.547586882979741e-06
+reminder_channel_None,-4.4887908480018e-05
+gender_Prefer not to say,-8.051323267046495e-05
+age_group_35-44,-0.00017812662095229026
+appointment_day_Tuesday,-0.00018254416115189853
+age_group_45-54,-0.00022173201776142792
+age_group_55-64,-0.0002610623756676755
+age,-0.00028756761686536404
+appointment_time_Evening,-0.000292270159658492
+appointment_type_General Consultation,-0.0003948710933270205
+reminder_sent,-0.00044474654719362514
+reminder_channel_SMS,-0.0004721067961719116
+appointment_type_Specialist Consultation,-0.0005141446787166326
+age_group_65+,-0.0005212697435547254
+appointment_day_Monday,-0.0005744227272468649
+appointment_day_Saturday,-0.0006080530332826795
+appointment_day_Sunday,-0.0006825812114890972
+age_group_25-34,-0.0007800520984741599
+gender_Male,-0.0009368035249121276
+appointment_time_Morning,-0.0010676197153394573
+distance_15km_plus,-0.0017489184151576298
+distance_to_clinic_km,-0.002183832372874639
