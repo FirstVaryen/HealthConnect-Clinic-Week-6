@@ -10,6 +10,7 @@
 
 **Week 6 published social posts:**
 - X: https://x.com/Varyen01/status/2099189837932703920?s=20
+- LinkedIn: https://lnkd.in/p/eiPrzr-W
 
 ---
 
