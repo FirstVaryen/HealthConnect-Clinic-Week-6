@@ -38,13 +38,14 @@ This folder does not include a `scripts/` directory. The KPI validation logic th
 
 ## Reproducing the analysis
 
-Developed on **Python 3.14**, using the same environment set up for the Week 6 Data Science track (`../week 6 - data science track/.venv`).
+Developed on **Python 3.14**.
 
 ```bash
-cd "../week 6 - data science track"
-.venv\Scripts\activate          # Windows
-cd "../week 6/notebooks"
-jupyter notebook
+python -m venv .venv
+.venv\Scripts\activate          # Windows (macOS/Linux: source .venv/bin/activate)
+pip install -r requirements.txt
+cd notebooks
+jupyter lab
 ```
 
 Then open `HealthConnect_Week6_KPI_Validation.ipynb` and run all cells top to bottom. It reads the prepared dataset from `../data/processed/` read-only.
@@ -61,3 +62,7 @@ To open the Power BI dashboard, open `outputs/dashboard/HealthConnect_Week6_Dash
 - **The Week 4/5 decision to exclude demographics and appointment logistics from the analysis is now evidence-tested**, not just based on visual inspection, via a robustness check on the Data Science side that added those variables back into a full model and found no benefit.
 
 See `reports/Advanced_Analytics_Decision_Support.pdf` for the full writeup and `reports/KPI_Validation.pdf` for the complete per-KPI validation detail.
+
+## Repository maintenance
+
+**14 Nov 2026:** Added `requirements.txt` and replaced setup steps that depended on a folder outside this repo with ones that work from a fresh clone. The analysis, outputs and findings are unchanged.
